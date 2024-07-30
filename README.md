@@ -24,18 +24,17 @@ Kriptografi adalah teknik untuk melindungi data dengan mengubah informasi menjad
 - **Load Password** 🧩:
   - Ambil kata sandi terenkripsi dan lihat hasil dekripsinya dengan tombol "Ambil Kata Sandi".
 
-## Cara Menggunakan 📋
+## Cara Menjalankan Aplikasi 🚀
 
-1. **Generate Key**: Klik tombol untuk membuat kunci enkripsi.
-2. **Save Key**: Simpan kunci yang dihasilkan ke file.
-3. **Load Key**: Muat kunci dari file yang telah disimpan.
-4. **Save Password**: Simpan kata sandi setelah enkripsi.
-5. **Load Password**: Ambil dan lihat kata sandi yang telah didekripsi.
+### 1. Instalasi Python 🐍
 
-## Tentang Aplikasi 🚀
+Pastikan Anda memiliki Python versi 3.6 atau lebih baru terinstal di sistem Anda. Anda dapat mengunduh Python dari [situs resmi Python](https://www.python.org/downloads/).
 
-Aplikasi ini menyederhanakan proses enkripsi dan dekripsi kata sandi dengan antarmuka yang mudah digunakan. Lindungi data sensitif Anda dengan cara yang efisien dan aman!
+### 2. Instalasi Dependensi 📦
 
----
+Setelah Python terinstal, Anda perlu menginstal beberapa dependensi yang diperlukan oleh aplikasi. Buka terminal atau command prompt dan jalankan perintah berikut:
+pip install tkinter cryptography
 
-Selamat menggunakan Password Manager Anda! Jika Anda memiliki pertanyaan atau umpan balik, jangan ragu untuk menghubungi kami. 😊
+### 3. Jalankan Aplikasi 🏃
+
+Running aplikasi dapat dilakukan di terminal atau via IDE seperti Visual Studio Code (py password.py)
